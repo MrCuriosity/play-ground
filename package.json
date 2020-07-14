@@ -1,0 +1,12 @@
+{
+  "name": "play-ground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MrCuriosity/play-ground.git",
+  "author": "Nathan.Wang <Nathan.Wang@activenetwork.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@commitlint/cli": "^9.1.1",
+    "@commitlint/config-conventional": "^9.1.1"
+  }
+}
