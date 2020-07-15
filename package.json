@@ -9,9 +9,8 @@
     "@commitlint/cli": "^9.1.1",
     "@commitlint/config-conventional": "^9.1.1",
     "@commitlint/prompt": "^9.1.1",
-    "commitizen": "^4.1.2",
-    "husky": "^4.2.5",
-    "standard-version": "^8.0.2"
+    "@commitlint/prompt-cli": "^9.1.1",
+    "husky": "^4.2.5"
   },
   "husky": {
     "hooks": {
@@ -19,11 +18,6 @@
     }
   },
   "scripts": {
-    "commit": "git-cz"
-  },
-  "config": {
-    "commitizen": {
-      "path": "@commitlint/prompt"
-    }
+    "commit": "commit"
   }
 }
