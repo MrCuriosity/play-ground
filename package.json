@@ -1,6 +1,6 @@
 {
   "name": "play-ground",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "main": "index.js",
   "repository": "git@github.com:MrCuriosity/play-ground.git",
   "author": "Nathan.Wang <Nathan.Wang@activenetwork.com>",
